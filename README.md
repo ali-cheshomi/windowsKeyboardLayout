@@ -3,15 +3,15 @@
 
 If you have the same problem as me, follow this path
 
-1.First go to Registry Editor (search in Windows search bar or press win+R and type "regedit")
+1. First go to Registry Editor (search in Windows search bar or press win+R and type "regedit")
 
-2.Go to this path "Computer\HKEY_USERS\.DEFAULT\Keyboard Layout\Preload"
+2. Go to this path "Computer\HKEY_USERS\.DEFAULT\Keyboard Layout\Preload"
 
-3.delete `00000436`
+3. delete `00000436`
 
-4.finally go to "Computer\HKEY_USERS\.DEFAULT\Keyboard Layout\Substitutes" and press F2, change `00000436` to `00000409` and press enter
+4. finally go to "Computer\HKEY_USERS\.DEFAULT\Keyboard Layout\Substitutes" and press F2, change `00000436` to `00000409` and press enter
 
-5.Restart your computer and boom!!! AFR is removed
+5. Restart your computer and boom!!! AFR is removed
 
 
 **This worked for me, but I don't know about you.**
