@@ -18,4 +18,5 @@ Restart your computer and boom!!! AFR is removed
 #If you still have problems, check these sites
 
 >[superuser.com](https://superuser.com/questions/1846837/why-is-afrikaans-keyboard-randomly-installed-on-windows-11)
+>,
 >[reddit](https://www.reddit.com/r/techsupport/comments/1bsbosk/afrikaans_keyboard_keep_appearing_and_i_cant/)
